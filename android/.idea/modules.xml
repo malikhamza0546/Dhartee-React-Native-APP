@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dhartee.iml" filepath="$PROJECT_DIR$/.idea/modules/Dhartee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1202504211/Dhartee.@react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1202504211/Dhartee.@react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Dhartee.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Dhartee.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1202504211/Dhartee.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1202504211/Dhartee.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1724845792/Dhartee.react-native-community_cameraroll.iml" filepath="$PROJECT_DIR$/.idea/modules/1724845792/Dhartee.react-native-community_cameraroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/41963521/Dhartee.react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/41963521/Dhartee.react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-818287737/Dhartee.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/-818287737/Dhartee.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1072247496/Dhartee.react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/1072247496/Dhartee.react-native-community_geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/288497597/Dhartee.react-native-compressor.iml" filepath="$PROJECT_DIR$/.idea/modules/288497597/Dhartee.react-native-compressor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1922884849/Dhartee.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/1922884849/Dhartee.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1267036520/Dhartee.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1267036520/Dhartee.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1139436914/Dhartee.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1139436914/Dhartee.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-843146235/Dhartee.react-native-google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/-843146235/Dhartee.react-native-google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-843146235/Dhartee.react-native-google-signin_google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/-843146235/Dhartee.react-native-google-signin_google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-90266824/Dhartee.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-90266824/Dhartee.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/299131796/Dhartee.react-native-image-resizer.iml" filepath="$PROJECT_DIR$/.idea/modules/299131796/Dhartee.react-native-image-resizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-519485792/Dhartee.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-519485792/Dhartee.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1483395043/Dhartee.react-native-mapbox-gl_maps.iml" filepath="$PROJECT_DIR$/.idea/modules/1483395043/Dhartee.react-native-mapbox-gl_maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-928310233/Dhartee.react-native-masked-view_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-928310233/Dhartee.react-native-masked-view_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1946112160/Dhartee.react-native-photo-editor.iml" filepath="$PROJECT_DIR$/.idea/modules/-1946112160/Dhartee.react-native-photo-editor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1179843607/Dhartee.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1179843607/Dhartee.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/262482638/Dhartee.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/262482638/Dhartee.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/869154679/Dhartee.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/869154679/Dhartee.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-397068209/Dhartee.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-397068209/Dhartee.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/737144876/Dhartee.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/737144876/Dhartee.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1535000584/Dhartee.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1535000584/Dhartee.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/88032579/Dhartee.react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/88032579/Dhartee.react-native-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/631883498/Dhartee.react-native-view-shot.iml" filepath="$PROJECT_DIR$/.idea/modules/631883498/Dhartee.react-native-view-shot.iml" />
+    </modules>
+  </component>
+</project>

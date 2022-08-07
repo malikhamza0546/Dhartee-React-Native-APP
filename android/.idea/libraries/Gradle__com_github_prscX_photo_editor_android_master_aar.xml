@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.prscX:photo-editor-android:master@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f2e4eadd18784e16beb9cb0a03cdf30/jetified-photo-editor-android-master/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f2e4eadd18784e16beb9cb0a03cdf30/jetified-photo-editor-android-master/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f2e4eadd18784e16beb9cb0a03cdf30/jetified-photo-editor-android-master/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.prscX/photo-editor-android/master/2a0d7db1004b2aff4c0debaa50eb97644915a359/photo-editor-android-master-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

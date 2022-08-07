@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Codistan\\gharbar_app-saim_dev\\gharbar_app-saim_dev\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Codistan\\gharbar_app-saim_dev\\gharbar_app-saim_dev\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Codistan\\gharbar_app-saim_dev\\gharbar_app-saim_dev\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Codistan\\gharbar_app-saim_dev\\gharbar_app-saim_dev\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Codistan\\gharbar_app-saim_dev\\gharbar_app-saim_dev\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Codistan\\gharbar_app-saim_dev\\gharbar_app-saim_dev\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Codistan\\gharbar_app-saim_dev\\gharbar_app-saim_dev\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Codistan\\gharbar_app-saim_dev\\gharbar_app-saim_dev\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Codistan\\gharbar_app-saim_dev\\gharbar_app-saim_dev\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Codistan\\gharbar_app-saim_dev\\gharbar_app-saim_dev\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Codistan\\gharbar_app-saim_dev\\gharbar_app-saim_dev\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Codistan\\gharbar_app-saim_dev\\gharbar_app-saim_dev\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Codistan\\gharbar_app-saim_dev\\gharbar_app-saim_dev\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Codistan\\gharbar_app-saim_dev\\gharbar_app-saim_dev\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\Codistan\\gharbar_app-saim_dev\\gharbar_app-saim_dev\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\Desktop\\Codistan\\gharbar_app-saim_dev\\gharbar_app-saim_dev\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]
